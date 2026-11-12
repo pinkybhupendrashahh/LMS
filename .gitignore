@@ -1,0 +1,18 @@
+# .NET
+**/bin/
+**/obj/
+*.tsbuildinfo
+.vs/
+*.user
+*.suo
+
+# Node
+node_modules/
+dist/
+npm-debug.log*
+
+# Local configuration / tooling
+.env
+.env.*
+!.env.example
+.tools/
